@@ -1,4 +1,7 @@
-# Changelog
+
+### v5.0.1, 2017-11-19
+
+  * fix version conflict (update to v5.0.1)
 
 ### v5.0.0, 2017-11-19
 
